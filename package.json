@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/madhavMathur/songvis/issues"
   },
-  "homepage": "https://github.com/madhavMathur/songvis#readme"
+  "homepage": "https://github.com/madhavMathur/songvis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
