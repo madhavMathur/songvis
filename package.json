@@ -1,0 +1,19 @@
+{
+  "name": "songvis",
+  "version": "1.0.0",
+  "description": "visualizing song moods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavMathur/songvis.git"
+  },
+  "author": "Madhav Mathur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavMathur/songvis/issues"
+  },
+  "homepage": "https://github.com/madhavMathur/songvis#readme"
+}
